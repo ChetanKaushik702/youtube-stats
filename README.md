@@ -1,3 +1,32 @@
+# [Youtube stats](https://ck-youtube-statistics.netlify.app/)
+**“Facts are stubborn things, but statistics are pliable.”
+― Mark Twain**
+
+## About the project:
+This project aims to determine various statistics for a video on youtube.
+
+## Statistics generated:
+- Title
+- Publishing time
+- Channel title
+- Duration
+- Views count
+- Likes count
+- Comments count
+- Dislikes count
+- Favorites count
+- Tags
+
+## Technology used:
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Axios
+
+## API used:
+[**Youtube Data API**](https://developers.google.com/youtube/v3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
